@@ -2,7 +2,7 @@
 
 ## https://reactjs.org/tutorial/tutorial.html
 
-###Learned:
+### Learned:
 - JSX
 - components
 - state
